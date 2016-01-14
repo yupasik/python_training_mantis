@@ -1,0 +1,92 @@
+[
+  {
+    "view_status": "public",
+    "project_name": "project_namevIw*F",
+    "description": "descriptionQ",
+    "py/object": "model.project.Project",
+    "status": "development",
+    "inheriting": "True",
+    "id": null
+  },
+  {
+    "view_status": "public",
+    "project_name": "project_name",
+    "description": "descriptionc",
+    "py/object": "model.project.Project",
+    "status": "development",
+    "inheriting": "False",
+    "id": null
+  },
+  {
+    "view_status": "public",
+    "project_name": "project_nameC  9^",
+    "description": "description%>b%",
+    "py/object": "model.project.Project",
+    "status": "stable",
+    "inheriting": "False",
+    "id": null
+  },
+  {
+    "view_status": "public",
+    "project_name": "project_named1s8JyB",
+    "description": "description",
+    "py/object": "model.project.Project",
+    "status": "release",
+    "inheriting": "True",
+    "id": null
+  },
+  {
+    "view_status": "private",
+    "project_name": "project_nameJsRi",
+    "description": "description[t",
+    "py/object": "model.project.Project",
+    "status": "stable",
+    "inheriting": "False",
+    "id": null
+  },
+  {
+    "view_status": "private",
+    "project_name": "project_name",
+    "description": "descriptionv!VP~Jc.c",
+    "py/object": "model.project.Project",
+    "status": "obsolete",
+    "inheriting": "False",
+    "id": null
+  },
+  {
+    "view_status": "public",
+    "project_name": "project_name)1",
+    "description": "description ",
+    "py/object": "model.project.Project",
+    "status": "release",
+    "inheriting": "False",
+    "id": null
+  },
+  {
+    "view_status": "private",
+    "project_name": "project_nameK0Ol",
+    "description": "description($(sU\\ :+",
+    "py/object": "model.project.Project",
+    "status": "obsolete",
+    "inheriting": "True",
+    "id": null
+  },
+  {
+    "view_status": "private",
+    "project_name": "project_nameo^<7",
+    "description": "descriptionRO~ni|V",
+    "py/object": "model.project.Project",
+    "status": "release",
+    "inheriting": "True",
+    "id": null
+  },
+  {
+    "view_status": "private",
+    "project_name": "project_name^~=HN Y",
+    "description": "descriptionTH_e~lWUw",
+    "py/object": "model.project.Project",
+    "status": "development",
+    "inheriting": "False",
+    "id": null
+  }
+]
